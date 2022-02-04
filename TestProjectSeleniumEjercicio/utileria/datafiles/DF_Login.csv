@@ -1,0 +1,4 @@
+Login credenciales validas,Admin,admin123
+Login credenciales invalidas,Admin,12345
+Login sin usuario,,admin123
+Login sin clave,,Admin	

@@ -1,0 +1,149 @@
+******************* Reporte de Logs de la Aplicaci�n *******************
+
+------------------------------------------------ Fecha: 03-Feb-2022 02:51:23 PM
+Reporte log: Clase de Excepción: class java.net.MalformedURLException Detalle de la Excepción: no protocol: www.google.com------------------------------------------------ Fecha: 03-Feb-2022 02:51:40 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 03:13:24 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 03:15:51 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 03:22:02 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 03:26:13 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 03:29:05 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 03:38:19 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 03:42:12 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 05:17:23 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 05:18:42 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 05:20:02 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 05:21:08 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 05:25:35 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 05:26:33 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 05:27:43 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 05:32:45 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 06:22:07 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 06:26:19 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 06:31:14 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 06:31:34 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 06:31:49 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 06:32:53 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 06:35:05 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 06:39:43 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 06:42:39 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 07:11:24 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 07:18:48 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 07:20:08 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 08:28:54 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 08:32:01 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 08:35:28 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 08:37:18 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 08:37:53 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 08:40:12 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 08:43:23 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.13.28.48', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 08:45:47 PM
+Reporte log: Clase de Excepción: class org.openqa.selenium.WebDriverException Detalle de la Excepción: Failed to create an instance of io.testproject.sdk.drivers.web.ChromeDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAP0301TEC177', ip: '10.127.2.61', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: unknown------------------------------------------------ Fecha: 03-Feb-2022 10:01:03 PM
+Reporte log: Clase de Excepción: class java.io.FileNotFoundException Detalle de la Excepción: \utileria\datafiles\DF_Login.csv (The system cannot find the path specified)
